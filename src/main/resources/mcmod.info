@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tmt",
+  "name": "Turbo Model Thingy",
+  "description": "Copied from flansmod 4.9.0",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jamioflan","garycxjk"],
+  "credits": "jamioflan and GaryCXJK for making TMT possible.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
